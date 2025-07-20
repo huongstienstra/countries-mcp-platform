@@ -145,6 +145,9 @@ Here are some example prompts you can use with Claude Desktop:
 "Which countries border the United States?"
 ```
 
+https://github.com/user-attachments/assets/99ec9ae5-55cd-4bfa-9fca-a8b22e87830b
+
+
 ## How It Works
 
 ### Architecture
